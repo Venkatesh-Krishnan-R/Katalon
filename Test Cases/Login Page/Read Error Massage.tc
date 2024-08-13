@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Read Error Massage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ff7a453f-8f32-433c-9416-0e9e06ca0e53</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8a6e5e4e-2cf3-47d9-b866-de1d32298752</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8a6e5e4e-2cf3-47d9-b866-de1d32298752</id>
+      <masked>false</masked>
+      <name>expected</name>
+   </variable>
+</TestCaseEntity>
