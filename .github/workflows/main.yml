@@ -15,4 +15,4 @@ jobs:
       run: docker pull katalonstudio/katalon
 
     - name: Run Katalon Studio tests
-      run: docker run -t --rm -v $(pwd):/katalon/katalon/source katalonstudio/katalon katalon-execute.sh -browserType="Chrome" -retry=0 -statusDelay=15 -testSuitePath="Test Suites/Fiture Product.groovy"
+      run: docker run -t --rm -v $(pwd):/katalon/katalon/source katalonstudio/katalon katalon-execute.sh -browserType="Chrome" -retry=0 -statusDelay=15 -testSuitePath="Test Suites/Fiture Login.groovy"
