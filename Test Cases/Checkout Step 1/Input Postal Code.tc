@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Input Postal Code</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6ac4d68f-b31e-4167-966c-2eb8933fe47b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8ecf360c-8eae-4b74-8f4e-f05031a27478</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8ecf360c-8eae-4b74-8f4e-f05031a27478</id>
+      <masked>false</masked>
+      <name>postalcode</name>
+   </variable>
+</TestCaseEntity>
